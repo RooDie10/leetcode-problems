@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-sokutions", "c-sharp-sokutions.csproj", "{CBF970BA-EFCA-4FF0-BA04-AA4B07B63DD2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-solutions", "c-sharp-solutions.csproj", "{CBF970BA-EFCA-4FF0-BA04-AA4B07B63DD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
